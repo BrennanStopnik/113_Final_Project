@@ -1,0 +1,111 @@
+/* Lander */
+
+#lander{
+    background-color: rgb(181, 180, 184);
+}
+.carousel-inner > .carousel-item > img {
+    position: relative;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px;
+}
+#pics{
+    width: 350px;
+}
+
+/* Navbar */
+
+.navbar{
+    font-family: 'Zilla Slab', serif;
+}
+
+/* Resume */
+
+#res_body{
+    font-family: 'Zilla Slab', serif;
+    background-color: rgb(209, 234, 248);
+}
+.fab{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.col-md-6 {
+    width: 50%;
+    display: inline-block;
+}
+#gavin{
+    margin-bottom: 64px;
+}
+#caang{
+    margin-top: 50px;
+}
+#udt{
+    margin-top: 50px;
+    margin-bottom: 44px;
+}
+#hawkeye{
+    margin-top: 50px;
+}
+#training{
+    margin-top: 50px;
+}
+
+#hemarg{
+    margin-right: 62px;
+}
+#obj{
+    margin-top: 22px;
+}
+
+/* Tic Tac Toe */
+
+#TTT_body{
+    background-color: lightgray;
+}
+
+
+
+.cell{
+    border: 10px solid darkgray;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 150px;
+    height: 200px;
+    width: 200px
+}
+
+#button{
+    height: 33px;
+    width: 77px;
+    text-align: center;
+    font-size: 13px;
+    background-color: lightslategrey;
+    color: white;
+    border-radius: 4px;
+}
+
+/* Pokemon */
+
+#pokemon_body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+.header{
+    font-size: 70px;
+    color: rgb(178, 219, 233);
+}
+.blockquote{
+    color: rgb(178, 219, 233, 0.4);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#contact_body{
+    background-color: rgb(214, 247, 213);
+}

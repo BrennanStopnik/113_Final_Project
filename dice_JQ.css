@@ -1,0 +1,33 @@
+.navbar{
+    font-family: 'Zilla Slab', serif;
+}
+
+.body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+#placeholder1 {
+    height: 100px;
+    width: 100px;
+    margin: 50px auto;
+    border: 1px solid gray;
+    border-radius: 10px;  
+    font-size:80px;
+    padding-left: 29px;
+  }
+#placeholder2 {
+    height: 100px;
+    width: 100px;
+    margin: 50px auto;
+    border: 1px solid gray;
+    border-radius: 10px;  
+    font-size:80px;
+    padding-left: 29px;
+}
+#die1{
+    margin-left: 20px;
+}
+#die2{
+    margin-left: 25px;
+}
